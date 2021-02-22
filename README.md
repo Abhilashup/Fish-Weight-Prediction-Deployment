@@ -1,6 +1,6 @@
 # Fish-Weight
 
 # Code Style
-https://img.shields.io/badge/<python>-<3.6>-<blue>
+[![js-python-3.6](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
   
 https://fish-weight-20.herokuapp.com/
