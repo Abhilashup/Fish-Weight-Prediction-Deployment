@@ -1,6 +1,11 @@
-# Fish-Weight
+# Fish Weight Prediction
 
-# Code Style
-[![js-python-3.6](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+
+# Motivation
+The motivation behind this project is to build an efficient machine learning model that helps to measure the weight of certain types of Fish.
+
+# Demo
+
+
   
 https://fish-weight-20.herokuapp.com/
