@@ -1,7 +1,6 @@
 # Fish-Weight
 
 # Code Style
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
-
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/python/3.6)
 
 https://fish-weight-20.herokuapp.com/
