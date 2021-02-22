@@ -1,5 +1,6 @@
 # Fish-Weight
 
 # Code Style
-https://img.shields.io/badge/python-3.6-blue
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+  
 https://fish-weight-20.herokuapp.com/
