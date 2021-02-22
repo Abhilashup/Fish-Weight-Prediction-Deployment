@@ -9,12 +9,12 @@ This is a model that predicts the weight of a fish given various features like L
 
 The dataset was downloaded from Kaggle and has the following as its features :
 
-1.Species - The type of fish.
-2.Weight of the fish in grams(g) - This will be our dependant variable or the predictand.
-3.Length 1 is the Vertical Length of the fish in centimeters(cm).
-4.Length 2 is the Diagonal Length of the fish in centimeters(cm).
-5.Length 3 is the Cross Length of the fish in centimeters(cm).
-6.Height of the fish in centimeters(cm).
+ 1.Species - The type of fish.
+ 2.Weight of the fish in grams(g) - This will be our dependant variable or the predictand.
+ 3.Length 1 is the Vertical Length of the fish in centimeters(cm).
+ 4.Length 2 is the Diagonal Length of the fish in centimeters(cm).
+ 5.Length 3 is the Cross Length of the fish in centimeters(cm).
+ 6.Height of the fish in centimeters(cm).
 7.Width of the fish in centimeters(cm).
 
 # Demo
