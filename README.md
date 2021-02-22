@@ -1,6 +1,5 @@
 # Fish-Weight
 
 # Code Style
-![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/python/3.6)
-
+https://img.shields.io/badge/python-3.6-blue
 https://fish-weight-20.herokuapp.com/
