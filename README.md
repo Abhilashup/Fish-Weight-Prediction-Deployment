@@ -4,6 +4,19 @@
 # Motivation
 The motivation behind this project is to build an efficient machine learning model that helps to measure the weight of certain types of Fish.
 
+# About the Project
+This is a model that predicts the weight of a fish given various features like Lengths, Height and Width. 
+
+The dataset was downloaded from Kaggle and has the following as its features :
+
+1.Species - The type of fish.
+2.Weight of the fish in grams(g) - This will be our dependant variable or the predictand.
+3.Length 1 is the Vertical Length of the fish in centimeters(cm).
+4.Length 2 is the Diagonal Length of the fish in centimeters(cm).
+5.Length 3 is the Cross Length of the fish in centimeters(cm).
+6.Height of the fish in centimeters(cm).
+7.Width of the fish in centimeters(cm).
+
 # Demo
 ![Capture](https://user-images.githubusercontent.com/66258607/108721100-9ea9fb80-7547-11eb-964d-c27440789036.PNG)
 
