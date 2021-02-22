@@ -15,4 +15,6 @@ The link to the deployed app is given below. Do check it out!
 https://fish-weight-20.herokuapp.com/
 
 # Tools and Libraries Used
-1. Python 3.6
+![621px-Scikit_learn_logo svg](https://user-images.githubusercontent.com/66258607/108722808-8d61ee80-7549-11eb-8aa6-5dbda723dc1d.png)
+
+
