@@ -24,5 +24,9 @@ https://fish-weight-20.herokuapp.com/
 ![download](https://user-images.githubusercontent.com/66258607/108722965-b71b1580-7549-11eb-9e14-1816a16ee812.png)
 ![1_0G5zu7CnXdMT9pGbYUTQLQ](https://user-images.githubusercontent.com/66258607/108723090-e16cd300-7549-11eb-9c31-a57401b5acec.png)
 
+## Future Scope
+1. Improve the front-end.
+2. Try to collect more data and make the model a bit more robust.
+
 
 
