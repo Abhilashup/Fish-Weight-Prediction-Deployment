@@ -10,7 +10,7 @@ This is a model that predicts the weight of a fish given various features like V
 The dataset was downloaded from Kaggle.
 
 # Demo
-![Capture](https://user-images.githubusercontent.com/66258607/108721100-9ea9fb80-7547-11eb-964d-c27440789036.PNG)
+![Capture1](https://user-images.githubusercontent.com/66258607/109377607-5d706d80-78f2-11eb-8eb8-20563526eb6c.PNG)
 
 # Deployment on Heroku
 Before deploying, login to Heroku and create a new app. Once done, you can either connect your GitHub profile or manually deploy
