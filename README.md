@@ -19,6 +19,8 @@ The link to the deployed app is given below. Do check it out!
 
 https://fish-weight-20.herokuapp.com/
 
+**Note** : It may take a few seconds for the web app to open.
+
 # Tech/Framework Used:
 ![621px-Scikit_learn_logo svg](https://user-images.githubusercontent.com/66258607/108722808-8d61ee80-7549-11eb-8aa6-5dbda723dc1d.png)
 ![download](https://user-images.githubusercontent.com/66258607/108722965-b71b1580-7549-11eb-9e14-1816a16ee812.png)
